@@ -1,0 +1,10 @@
+h1 {
+    font-size: 4em;
+    color: var(--text-color)
+}
+
+.tagline {
+    font-size: 2em;
+    color: var(--accent-color-1)
+}
+

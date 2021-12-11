@@ -1,0 +1,21 @@
+.statsbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.statsbox {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.stat-number {
+    color: var(--text-color);
+    font-size: 2em;
+}
+
+.stat-item {
+    color: gray;
+    font-size: .75em;
+}

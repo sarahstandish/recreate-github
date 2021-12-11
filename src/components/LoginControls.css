@@ -1,0 +1,13 @@
+.login-conrols {
+    display: inline-block;
+}
+
+.sign-in {
+    display: inline-block;
+}
+
+.sign-up {
+    display: inline-block;
+    border: 1px solid var(--text-color);
+    border-radius: 5px;
+}
